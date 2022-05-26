@@ -14,7 +14,7 @@
 
 - 👨‍💻 **[My Portfolio](https://shahjahan-it.me)**
 
-- 📫 How to reach me **shahjahanmukhtar62@gmail.com**
+- 📫 How to reach me **shahjahanmukhtar62@gmail.com** :speech_balloon:
 
 - ⚡ Fun fact **Learn New Technology and Read Books**
 
