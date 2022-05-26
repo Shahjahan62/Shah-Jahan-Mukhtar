@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Shahjahan</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -7,6 +6,21 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah-jahan-mukhtar" alt="shah-jahan-mukhtar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shahjahanch6" target="blank"><img src="https://img.shields.io/twitter/follow/shahjahanch6?logo=twitter&style=for-the-badge" alt="shahjahanch6" /></a> </p>
+
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **React-Native**
+
+- 🌱 I’m currently learning **React-Native,Redux*
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 **[My Portfolio](https://shahjahan-it.me)**
+
+- 📫 How to reach me **shahjahanmukhtar62@gmail.com**
+
+- ⚡ Fun fact **Learn New Technology and Read Books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
