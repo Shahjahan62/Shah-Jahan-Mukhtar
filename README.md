@@ -15,10 +15,10 @@
 
 - 👨‍💻 **[My Portfolio](https://shahjahan-it.me)**
 
-- 📫 How to reach me **shahjahanmukhtar62@gmail.com** :speech_balloon:
+- 📫 How to reach me **shahjahanmukhtar62@gmail.com** :email:
 
-- ⚡ Fun fact **Learn New Technology and Read Books** 
-
+- ⚡ Fun fact **Learn New Technology :computer:
+ and Read Books :orange_book: **  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="shah-jahan-mukhtar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah-jahan-mukhtar" alt="shah-jahan-mukhtar" /></a> </p>
