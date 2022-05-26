@@ -1,8 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src='https://www.freepik.com/vectors/mobile-development' " height="175px"/></a>
-
- 
-<a href='https://www.freepik.com/vectors/mobile-development'>Mobile development vector created by vectorpouch - www.freepik.com</a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
  
  
 <h1 align="center">Hi 👋, I'm Shahjahan</h1>
@@ -10,17 +7,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **React-Native**
+- 🔭 I’m currently working on **React-Native** :snowflake:
 
 - 🌱 I’m currently learning **React-Native,Redux**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Mobile App Development Projects** :iphone:
 
 - 👨‍💻 **[My Portfolio](https://shahjahan-it.me)**
 
 - 📫 How to reach me **shahjahanmukhtar62@gmail.com** :speech_balloon:
 
-- ⚡ Fun fact **Learn New Technology and Read Books**
+- ⚡ Fun fact **Learn New Technology and Read Books** 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="shah-jahan-mukhtar" /> </p>
 
