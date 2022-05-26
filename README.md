@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **React-Native**
 
-- 🌱 I’m currently learning **React-Native,Redux*
+- 🌱 I’m currently learning **React-Native,Redux**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
