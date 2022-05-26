@@ -67,6 +67,6 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abobakar-it">
+    <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar">
 </a>
 <a href="https://github.com/shah-jahan-mukhtar?tab=followers"><img src="https://img.shields.io/github/followers/shah-jahan-mukhtar?label=Followers&style=social" alt="GitHub Badge"></a>
