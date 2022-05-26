@@ -65,7 +65,7 @@
 <br/>
 
 
-## ❤ Views and Followers :sparkles:
+## Views  :eyes: and Followers :sparkles:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar">
 </a>
