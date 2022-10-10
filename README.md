@@ -19,9 +19,9 @@
 
 - ⚡ Fun fact **Learn New Technology** :computer:
  and **Read Books** :orange_book:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="shah-jahan-mukhtar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahjahan62&label=Profile%20views&color=0e75b6&style=flat" alt="shahjahan62" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shah-jahan-mukhtar" alt="shah-jahan-mukhtar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahjahan62" alt="shahjahan62" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shahjahanch6" target="blank"><img src="https://img.shields.io/twitter/follow/shahjahanch6?logo=twitter&style=for-the-badge" alt="shahjahanch6" /></a> </p>
 
@@ -51,7 +51,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shah-jahan-mukhtar&" alt="shah-jahan-mukhtar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahjahan62&" alt="shahjahan62" /></p>
 
  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -60,7 +60,7 @@
 <br/>
 
 
-<a href="https://github.com/shah-jahan-mukhtar/github-readme-activity-graph"><img alt="shah-jahan-mukhtar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shah-jahan-mukhtar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/shahshahjahan62shahjahan62/github-readme-activity-graph"><img alt="shahjahan62 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shahjahan62&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -68,6 +68,6 @@
 
 ## Views  :eyes: and Followers :sparkles:
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shah-jahan-mukhtar">
+    <img src="https://komarev.com/ghpvc/?username=shahjahan62">
 </a>
-<a href="https://github.com/shah-jahan-mukhtar?tab=followers"><img src="https://img.shields.io/github/followers/shah-jahan-mukhtar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/shahjahan62?tab=followers"><img src="https://img.shields.io/github/followers/shahjahan62?label=Followers&style=social" alt="GitHub Badge"></a>
