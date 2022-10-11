@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React-Native** :snowflake:
 
-- 🌱 I’m currently learning **React-Native,Redux**
+- 🌱 I’m currently learning **React-Native,Redux-ToolKit,Redux Toolkit-query**
 
 - 👯 I’m looking to collaborate on **Mobile App Development Projects** :iphone:
 
